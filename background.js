@@ -1,5 +1,5 @@
 function hooker() {
-	var hooker = new Audio("hooker.mp3");
+	var hooker = new Audio("ganja.mp3");
 	hooker.play();
 }
 
