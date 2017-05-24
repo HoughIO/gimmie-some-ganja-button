@@ -1,6 +1,6 @@
-function hooker() {
-	var hooker = new Audio("ganja.mp3");
-	hooker.play();
+function ganja() {
+	var ganja = new Audio("ganja.mp3");
+	ganja.play();
 }
 
-chrome.browserAction.onClicked.addListener(hooker);
+chrome.browserAction.onClicked.addListener(ganja);

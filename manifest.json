@@ -6,8 +6,8 @@
   "icons": { "128": "green-button-th.png" },
   "browser_action": {
     "default_icon": {
-      "19": "red-button-th.png",
-      "38": "red-button-th.png"
+      "19": "green-button-th.png",
+      "38": "green-button-th.png"
     },
     "default_title": "Gimmie Some Ganja Button"
   },
