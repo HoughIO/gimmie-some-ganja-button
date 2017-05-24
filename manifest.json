@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "name": "Gimmie Some Ganja Button",
   "version": "1.1",
   "description": "Says 'Gimmie some Ganja!',",
@@ -9,7 +9,7 @@
       "19": "red-button-th.png",
       "38": "red-button-th.png"
     },
-    "default_title": "Hooker Button"
+    "default_title": "Gimmie Some Ganja Button"
   },
   "author": "Graham Hough",
   "background": {
