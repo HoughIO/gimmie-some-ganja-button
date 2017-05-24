@@ -1,6 +1,7 @@
-function ganja() {
-	var ganja = new Audio("ganja.mp3");
-	ganja.play();
-}
+var ganjasound = new Audio("ganja.mp3");
 
+function ganja() {
+        ganjasound.currentTime = 0.2;
+	ganjasound.play();
+}
 chrome.browserAction.onClicked.addListener(ganja);
